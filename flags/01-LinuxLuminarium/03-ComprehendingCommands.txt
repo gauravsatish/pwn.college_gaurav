@@ -1,0 +1,13 @@
+01 - pwn.college{ELKIIkLFHhX30suUwBbRMTyO2B9.QXxcTN0wSN3AzNzEzW}
+02 - pwn.college{wi_g1L2krawknJjDDaSjx0CwfwO.QX5ETO0wSN3AzNzEzW}
+03 - pwn.college{4ul24LUyZebystrHlAPodaLhSv2.QXwITO0wSN3AzNzEzW}
+04 - pwn.college{kCRrRw2Id3Het0k05w7M8vMZUoW.QX3EDO0wSN3AzNzEzW}
+05 - pwn.college{Il6aNpL4aJv1M3jwkbq1sC47Hhm.01MwMDOxwSN3AzNzEzW}
+06 - pwn.college{MIzNFoh2HuxNe5ydadksTmAXmBC.QX4IDO0wSN3AzNzEzW}
+07 - pwn.college{EOUcW6aG5XuxpyoLPrcz5VYQXvH.QXwMDO0wSN3AzNzEzW}
+08 - pwn.college{4I-y-fxLYFEv9jTVhw3mLY28HAy.QX2kDM1wSN3AzNzEzW}
+09 - pwn.college{45Ri05vFStrEDaWo6jOumA-afQy.0VOxEzNxwSN3AzNzEzW}
+10 - pwn.college{kYJaxqh00u_btfliZ91XGBoezhj.QXwUDO0wSN3AzNzEzW}
+11 - pwn.college{os8u_uJp4S0st_jFAEk6AX9S72i.QX5IDO0wSN3AzNzEzW}
+12 - pwn.college{kfvUBaepfFo90dkj_oSDYA2KYVV.QXxMDO0wSN3AzNzEzW}
+13 - 
