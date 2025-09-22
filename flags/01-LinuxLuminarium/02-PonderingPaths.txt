@@ -1,7 +1,7 @@
 01 - pwn.college{Mqqw92MTF8uWSDTHJXrlwfJjKkw.QX4cTO0wSN3AzNzEzW}
-02 Program and Absolute Paths - pwn.college{47eIpw0lu-gXI7-NGFsQbypRtZZ.QX1QTN0wSN3AzNzEzW}
-03 Position Thyself - pwn.college{gnp9f3OtZ5zzn7azY24ktezGjT9.QX2QTN0wSN3AzNzEzW}
-04 Position Somewhere Else - pwn.college{wZ6rOo74E35X1hFwALg9MnWtAHZ.QX3QTN0wSN3AzNzEzW}
+02 - pwn.college{47eIpw0lu-gXI7-NGFsQbypRtZZ.QX1QTN0wSN3AzNzEzW}
+03 - pwn.college{gnp9f3OtZ5zzn7azY24ktezGjT9.QX2QTN0wSN3AzNzEzW}
+04 - pwn.college{wZ6rOo74E35X1hFwALg9MnWtAHZ.QX3QTN0wSN3AzNzEzW}
 05 - pwn.college{IjA77Nx5eRd-W9ThSWsv6vXDHzO.QX4QTN0wSN3AzNzEzW}
 06 - pwn.college{ECrc4XPVNn404yGPbYIE729ea0k.QX5QTN0wSN3AzNzEzW}
 07 - pwn.college{85hZtqtB_1oLevz47x6z1M-_syv.QXwUTN0wSN3AzNzEzW}
