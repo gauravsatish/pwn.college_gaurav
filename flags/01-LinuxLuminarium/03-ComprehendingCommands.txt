@@ -10,4 +10,5 @@
 10 - pwn.college{kYJaxqh00u_btfliZ91XGBoezhj.QXwUDO0wSN3AzNzEzW}
 11 - pwn.college{os8u_uJp4S0st_jFAEk6AX9S72i.QX5IDO0wSN3AzNzEzW}
 12 - pwn.college{kfvUBaepfFo90dkj_oSDYA2KYVV.QXxMDO0wSN3AzNzEzW}
-13 - 
+13 - pwn.college{U1L2c5J8Ya3xJcZogumlMjCDeLV.QXyMDO0wSN3AzNzEzW}
+14 - pwn.college{YlzxN4PbebJNqd_SAGmux1208gA.QX5ETN1wSN3AzNzEzW}
