@@ -1,7 +1,6 @@
 # Redirecting Errors
 For `/challenge/run` redirect `stderr` (instructions) to a file `instructions`, and `stdout` to a file `myflag`.
 
-
 ## My solve
 **Flag:** `pwn.college{ozcRapwR5CpmdBix7sfiWN0A32V.QX3YTN0wSN3AzNzEzW}`
 
@@ -50,4 +49,4 @@ Extra Info:
 A new concept of FDs, and how to redirect the output of a certain stream into a certain file. Also how to redirect multiple output streams simultaneously.
 
 ## References 
-None.
+https://en.wikipedia.org/wiki/File_descriptor

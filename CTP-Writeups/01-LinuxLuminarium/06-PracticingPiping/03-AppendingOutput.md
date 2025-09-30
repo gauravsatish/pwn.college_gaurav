@@ -2,7 +2,7 @@
 Append the output of `/challenge/run` to `~/the-flag` using `>>`.
 
 ## My solve
-**Flag:** `pwn.college{helloworld}`
+**Flag:** `pwn.college{U5jW6m42d2lMCwpUxtjSecSypXz.QX3ATO0wSN3AzNzEzW}`
 
 `>>` is used to append the output of a command to a file, regardless of whether that file has pre-existing contents or not. With `>`, it would have overwritten the contents, but with `>>` we preserve it.
 
