@@ -4,7 +4,8 @@ Read `/challenge/read_me` into the `PWN` environment variable.
 ## My solve
 **Flag:** `pwn.college{wXbJfVPB10hg60LKnxSSg3Ea0wh.QXwIDO0wSN3AzNzEzW}`
 
-type in your solve and your thought process behind solving the challenge. Include as much as info as possible. Use triple ticks for bash.
+The `read` builtin, at it's core reads the contents of `stdin`. These can come from the user (as shown in the previous challenge), or from another source (an example is what we're doing here).
+In this case, using `<`, we are feeding the output of `/challenge/read_me` as `stdin` for the `read` builtin, which then stores that into the `PWN` variable.
 
 ```
 hacker@variables~reading-files:~$ read PWN < /challenge/read_me 
