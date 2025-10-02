@@ -1,0 +1,6 @@
+01 - pwn.college{EKfU9G3T6G7kL_6qBdPHdKCWYLJ.01MxEzNxwSN3AzNzEzW}
+02 - pwn.college{M5VPYQ6YuKtwTz4RBPgaGZKGm6n.0FNxEzNxwSN3AzNzEzW}
+03 - pwn.college{8si7WApOrwmOHg8HVFqifPnG-Bh.0VNxEzNxwSN3AzNzEzW}
+04 - pwn.college{YpocbkzNLzN4B30Qowvp7xPsHW9.0lNxEzNxwSN3AzNzEzW}
+05 - pwn.college{43G_h2QH02Ua0L95H9TefHG_7at.01NxEzNxwSN3AzNzEzW}
+06 - pwn.college{Q5g486BdNHrZiYy2GTmf8kK1uVz.0FM0MDOxwSN3AzNzEzW}
