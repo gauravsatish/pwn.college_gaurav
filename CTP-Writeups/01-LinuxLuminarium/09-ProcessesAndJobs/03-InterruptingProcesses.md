@@ -17,6 +17,9 @@ Good job! You have used Ctrl-C to interrupt this process! Here is your flag:
 pwn.college{Mze_baM2_Am1i5eDBjrnR4rSSNM.QXzQDO0wSN3AzNzEzW}
 ```
 
+Extra Info:
+When you do `Ctrl + C`, you send a `SIGINT` signal to that process.
+
 ## What I learned
 Using `Ctrl+C` to send an interrupt signal to processes.
 
