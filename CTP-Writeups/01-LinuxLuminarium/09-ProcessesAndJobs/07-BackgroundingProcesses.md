@@ -5,7 +5,7 @@ Launch `/challenge/run`, then suspend it, then _background_ it with `bg` and lau
 **Flag:** `pwn.college{0zh6-sgoUiM7OptHdpuonNAfS-B.QX3QDO0wSN3AzNzEzW}`
 
 If you wish to resume a suspended process without it tying up your terminal, then you can use `bg` to let it keep running in the background.
-`bg` also sends a `SIGCONT` signal, the only difference being its not tied to your terminal.
+`bg` also sends a `SIGCONT` signal, the only difference being its not hogging your terminal.
 
 ```
 hacker@processes~backgrounding-processes:~$ /challenge/run 

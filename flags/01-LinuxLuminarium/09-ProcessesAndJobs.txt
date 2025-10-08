@@ -4,4 +4,7 @@
 04 - pwn.college{gI2vOtuPKU67sfkvqRA9zyGnJYu.0FNzMDOxwSN3AzNzEzW}
 05 - pwn.college{w3hpSrBf3aEW9opic62qfGc7WlI.QX1QDO0wSN3AzNzEzW}
 06 - pwn.college{sApnQFXXXtv2NWJDgcfb9noeiaA.QX2QDO0wSN3AzNzEzW}
-07 - 
+07 - pwn.college{0zh6-sgoUiM7OptHdpuonNAfS-B.QX3QDO0wSN3AzNzEzW}
+08 - pwn.college{Ap94UNmO_oQhGgHNsurjOaj2Ept.QX4QDO0wSN3AzNzEzW}
+09 - pwn.college{YIAStIoTL5FIv03vRirpZIpZN1-.QX5QDO0wSN3AzNzEzW}
+10 - pwn.college{U9PoW1ACBFS4r7QJUt9FINtfXcs.QX5YDO1wSN3AzNzEzW}
