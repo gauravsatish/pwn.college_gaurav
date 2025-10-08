@@ -199,7 +199,7 @@ I then added the Render image recipe in cyberchef and set the input format to "h
 
 I then repeated this process for the second function, which was a base 16 decoding algorithm. That then gave me enough data to make out the flag.
 
-![[Citadel-ViralBionicAnomaly-1.png]]
+![FlagImage](Citadel-ViralBionicAnomaly-1.png)
 
 Doing this for the third function, which was `Base 64` would have given you the rest of the image as well.
 
